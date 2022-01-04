@@ -1,6 +1,9 @@
 h1 {
     font-size: 40px;
 }
+body{
+    margin: 0;
+}
 .font-color{
     color: orange;
 }
@@ -9,7 +12,7 @@ section{
 }
 .half-width{
     width: 50%;
-    padding: 10px;
+    padding-left: 5%;
 }
 .half-width img {
     width: 70%;
@@ -20,4 +23,8 @@ section{
     padding: 10px 40px;
     border-radius: 7px;
     font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
